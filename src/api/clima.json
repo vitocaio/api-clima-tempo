@@ -2,42 +2,42 @@
   "cidades": [
     {
       "nome":"Sao Paulo - SP",
+      "cidade_id":1,
       "desc": {
         "temperatura":"19",
-        "humidade":"73%",
-        "cidade_id":1
+        "humidade":"73%"
       }
     },
     {
       "nome":"Rio de Janeiro - RJ",
+      "cidade_id":2,
       "desc":{
         "temperatura":"19",
-        "humidade":"85%",
-        "cidade_id":2
+        "humidade":"85%"
       }
     },
     {
       "nome":"Santa Catarina - SC",
+      "cidade_id":3,
       "desc":{
         "temperatura":"19",
-        "humidade":"73%",
-        "cidade_id":3
+        "humidade":"73%"
       }
     },
     {
       "nome":"Minas Gerais - MG",
+      "cidade_id":4,
       "desc":{
         "temperatura":"19",
-        "humidade":"73%",
-        "cidade_id":4
+        "humidade":"73%"
       }
     },
     {
       "nome":"Bahia - BA",
+      "cidade_id":5,
       "desc":{
         "temperatura":"19",
-        "humidade":"73%",
-        "cidade_id":5
+        "humidade":"73%"
       }
     }
   ]
